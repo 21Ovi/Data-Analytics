@@ -1,2 +1,2 @@
 # Data-Analytics
-Analysis on data for practicing purpose
+Analysis on data for practice
